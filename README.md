@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/yajulo/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://github.com/mikachen">
-  <img align="left" alt="Ajay's Github" width="24px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-</a>
 <br>
 
 ## About Me
