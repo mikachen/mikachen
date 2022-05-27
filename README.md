@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="250" />
 <a href="https://www.linkedin.com/in/yajulo/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://github.com/mikachen">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ajay's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <br>
 
