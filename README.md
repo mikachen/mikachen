@@ -1,4 +1,5 @@
-## Hello World! I'm Zoe <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! I'm Zoe <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="3px"></h2>
+<br>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="250" />
 <a href="https://www.linkedin.com/in/yajulo/">
